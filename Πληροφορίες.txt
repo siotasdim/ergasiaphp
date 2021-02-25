@@ -1,0 +1,41 @@
+
+
+Admin (Γραφείο Εκπαίδευσης)
+	email    	x@x.x
+	pass 		x
+	hashed pass (2d711642b726b04401627ca9fbac32f5c8530fb1903cc4db02258717921a4881)
+
+
+
+Σειρά Ενεργειών
+	Καταχώρηση Μαθημάτων
+
+	Καταχώρηση Σειρών
+
+	Πρέπει να έχει δημιουργηθεί σειρά για να καταχωρηθεί μάθημα σε αυτή
+	Ανάθεση Μαθήματος σε Σειρά
+
+	Ανάθεση Μαθητή σε Σειρά
+
+	Ανάθεση Καθηγητή σε Μάθημα
+
+
+
+Καθηγητής
+	prof1@z.z    pass  prof1
+	prof2@z.z    pass  prof2
+	prof3@z.z    pass  prof3
+	prof4@z.z    pass  prof4
+
+	Από το Διδασκαλία βλέπει τα μαθήματά του και καταχωρεί βαθμολογίες
+	
+
+Μαθητές
+	student1@a.a  	pass  student1
+	student2@a.a  	pass  student2
+	student3@a.a  	pass  student3
+	student4@a.a  	pass  student4
+	student5@a.a  	pass  student5
+	student6@a.a  	pass  student6
+	
+	
